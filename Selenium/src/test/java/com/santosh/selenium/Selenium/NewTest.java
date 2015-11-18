@@ -10,13 +10,16 @@ public class NewTest {
 	WebDriver driver;
   @Test
   public void f() {
+	  System.out.println("driver initiated");
+	  
   }
   @BeforeTest
   public void beforeTest() {
-	  driver = new FirefoxDriver();
-	  driver.get("http://www.gmail.com");
+	 /*// driver = new FirefoxDriver();
+	  //driver.get("http://www.gmail.com");
 	  driver.manage().window().maximize();
-	  driver.close();
+	  System.out.println("driver initiated");
+	  driver.close();*/
   }
 
  /* @AfterTest
