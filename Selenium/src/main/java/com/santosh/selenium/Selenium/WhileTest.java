@@ -14,7 +14,7 @@ public class WhileTest {
 		for(cables = 1; cables<=10; cables++){
 			System.out.println(cables);
 			System.out.println("No.cables:" +cables);
-			System.out.println("A sting");
+			
 			
 		
 	}
