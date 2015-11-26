@@ -15,6 +15,7 @@ public class WhileTest {
 			System.out.println(cables);
 			System.out.println("No.cables:" +cables);
 			System.out.println("hello java");
+			System.out.println("check change in the student");
 			
 			
 		
